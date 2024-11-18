@@ -78,3 +78,12 @@ Request:
 
 Response:
 400.00
+
+## API Documentation
+
+The API documentation is available through Swagger. Use the following links to access it:
+
+- [Swagger UI](http://localhost:8080/swagger-ui/index.html#/): Interactive API documentation.
+- [OpenAPI JSON Spec](http://localhost:8080/v3/api-docs): Raw OpenAPI specification in JSON format.
+
+Make sure the application is running locally on port `8080` to access the documentation.
